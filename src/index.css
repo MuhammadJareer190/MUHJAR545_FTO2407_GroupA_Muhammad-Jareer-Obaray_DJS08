@@ -552,6 +552,10 @@ i[class*="van-type-"] {
   color: red;
 }
 
+.login-first {
+  color: red;
+}
+
 .host-dashboard-earnings {
   background-color: #ffead0;
   padding: 37px 26px;
